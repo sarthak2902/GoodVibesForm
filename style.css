@@ -1,0 +1,18 @@
+*{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main{
+    align-items: center;
+    text-align: center;
+}
+
+
+.box{
+    background-color: aquamarine;
+    height: 1000px;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+}
